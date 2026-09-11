@@ -1,8 +1,8 @@
-\# Exercise 1: Blog Post
+# Exercise 1: Blog Post
 
 
 
-\# Input Prompt: 
+# Input Prompt: 
 
 
 
