@@ -10,11 +10,11 @@
 
 
 
-\# Chat-gpt Output:
+# Chat-gpt Output:
 
 
 
-\# Why Remote Work Is Good: More Freedom, Better Focus, Stronger Teams
+# Why Remote Work Is Good: More Freedom, Better Focus, Stronger Teams
 
 
 
@@ -46,15 +46,15 @@ But when organizations give people flexibility, support, and clear expectations,
 
 
 
-\-----------------
+-----------------
 
 
 
-\# Exercise 2: LinkedIn post
+# Exercise 2: LinkedIn post
 
 
 
-\# Input Prompt: 
+# Input Prompt: 
 
 
 
@@ -62,7 +62,7 @@ But when organizations give people flexibility, support, and clear expectations,
 
 
 
-\# Chat-gpt Output:
+# Chat-gpt Output:
 
 
 
@@ -112,15 +112,15 @@ What’s one prompting habit that has improved your results?
 
 
 
-\-----------------
+-----------------
 
 
 
-\# Exercise 3: Email campaign
+# Exercise 3: Email campaign
 
 
 
-\# Input Prompt: 
+# Input Prompt: 
 
 
 
@@ -128,7 +128,7 @@ What’s one prompting habit that has improved your results?
 
 
 
-\# Chat-gpt Output:
+# Chat-gpt Output:
 
 
 
@@ -136,7 +136,7 @@ Subject: Meet the water bottle you’ll actually want to carry
 
 
 
-Hi \[First Name],
+Hi [First Name],
 
 
 
@@ -144,7 +144,7 @@ Staying hydrated should be simple.
 
 
 
-Our new \[Bottle Name] is designed to make it easier—with a sleek, durable design, dependable insulation, and a leak-resistant lid that goes wherever your day does.
+Our new [Bottle Name] is designed to make it easier—with a sleek, durable design, dependable insulation, and a leak-resistant lid that goes wherever your day does.
 
 
 
@@ -156,25 +156,25 @@ Ready to upgrade your everyday carry?
 
 
 
-\[Shop the new bottle]
+[Shop the new bottle]
 
 
 
 Best,
 
-\[Your Name]
+[Your Name]
 
 
 
-\-----------------
+-----------------
 
 
 
-\# Exercise 4: Instagram Caption
+# Exercise 4: Instagram Caption
 
 
 
-\# Input Prompt: 
+# Input Prompt: 
 
 
 
@@ -182,7 +182,7 @@ Best,
 
 
 
-\# Chat-gpt Output:
+# Chat-gpt Output:
 
 
 
@@ -190,15 +190,15 @@ A little cup of calm before the day begins. ☕✨
 
 
 
-\-----------------
+-----------------
 
 
 
-\# Exercise 5: Youtube script
+# Exercise 5: Youtube script
 
 
 
-\# Input Prompt: 
+# Input Prompt: 
 
 
 
@@ -206,15 +206,15 @@ A little cup of calm before the day begins. ☕✨
 
 
 
-\# Chat-gpt Output:
+# Chat-gpt Output:
 
 
 
-\# Title: How to Start a Business: A Simple Beginner’s Guide
+Title: How to Start a Business: A Simple Beginner’s Guide
 
 
 
-\# \[OPENING]
+[OPENING]
 
 
 
@@ -228,7 +228,7 @@ The good news is you do not need to have everything figured out before you start
 
 In this video, I’ll walk you through a practical way to turn an idea into a real business.
 
-\# \[SECTION 1: START WITH A PROBLEM]
+[SECTION 1: START WITH A PROBLEM]
 
 
 
@@ -248,7 +248,7 @@ A good business idea sits where three things meet: a problem people care about, 
 
 
 
-\# \[SECTION 2: KNOW YOUR CUSTOMER]
+[SECTION 2: KNOW YOUR CUSTOMER]
 
 
 
@@ -268,7 +268,7 @@ The clearer your customer, the easier it becomes to create an offer, write marke
 
 
 
-\# \[SECTION 3: TEST BEFORE YOU BUILD]
+[SECTION 3: TEST BEFORE YOU BUILD]
 
 
 
@@ -288,7 +288,7 @@ You are looking for evidence, not compliments. A person saying, “That’s a gr
 
 
 
-\# \[SECTION 4: CREATE A SIMPLE OFFER]
+[SECTION 4: CREATE A SIMPLE OFFER]
 
 
 
@@ -312,7 +312,7 @@ Keep it simple. You can improve and expand later. At the beginning, clarity beat
 
 
 
-\# \[SECTION 5: HANDLE THE BASICS]
+[SECTION 5: HANDLE THE BASICS]
 
 
 
@@ -332,7 +332,7 @@ You do not need a perfect logo or an expensive website to begin. You do need a w
 
 
 
-\# \[SECTION 6: FIND YOUR FIRST CUSTOMERS]
+[SECTION 6: FIND YOUR FIRST CUSTOMERS]
 
 
 
@@ -348,7 +348,7 @@ Focus on one or two channels at first—such as LinkedIn, Instagram, local event
 
 
 
-\# \[SECTION 7: LEARN AND IMPROVE]
+[SECTION 7: LEARN AND IMPROVE]
 
 
 
@@ -364,7 +364,7 @@ Use that feedback to improve your product, price, messaging, and process. Buildi
 
 
 
-\# \[CLOSING]
+[CLOSING]
 
 
 
@@ -380,15 +380,15 @@ If this video helped, like and subscribe for more practical business advice. And
 
 
 
-\-----------------
+-----------------
 
 
 
-\# Exercise 6: Product Description
+# Exercise 6: Product Description
 
 
 
-\# Input Prompt: 
+# Input Prompt: 
 
 
 
@@ -396,7 +396,7 @@ If this video helped, like and subscribe for more practical business advice. And
 
 
 
-\# Chat-gpt Output:
+# Chat-gpt Output:
 
 
 
